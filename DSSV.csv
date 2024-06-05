@@ -1,0 +1,146 @@
+Stt, Ma£ SV , Haªç la≥t , Ta™n , Ma£ laªõp , ƒêiaªÉm 
+1,N22DCPT001 , Lo Chau , An , D22CQPT01-N , 3 
+2,N22DCPT002 , Nguyen Pham My , An , D22CQPT01-N , 6 
+3,N22DCPT003 , Nguyen Tha†nh , An , D22CQPT01-N , 6 
+4,N22DCAT001 , Nguyen Van , An , D22CQAT01-N , 5 
+5,N22DCPT004 , Tran Dinh Tuan , Anh , D22CQPT01-N , 8 
+6,N22DCAT006 , Dang Phuoc , Bao , D22CQAT01-N , 2 
+7,N22DCPT005 , Doan Van , Binh , D22CQPT01-N , 4 
+8,N22DCPT006 , Nguyen Thanh , Binh , D22CQPT01-N , 10 
+9,N20DCCN008 , Tran Huu , Chien , D20CQCNPM01-N , 5 
+10,N22DCPT007 , Pham Ngoc Huy , Cung , D22CQPT01-N , 9 
+11,N22DCAT009 , Nguyen Dang Manh , Cuong , D22CQAT01-N , 10 
+12,N22DCPT008 , Nguyen Van , Cuong , D22CQPT01-N , 4 
+13,N22DCPT009 , Nguyen Thi , Danh , D22CQPT01-N , 5 
+14,N22DCCN112 , Tran Van , Danh , D22CQCN02-N , 10 
+15,N22DCPT010 , Nguyen Luong Ngoc , Dieu , D22CQPT01-N , 8 
+16,N21DCPT015 , Nguyen Thi Kieu , Dung , D21CQPTTK01-N , 7 
+17,N22DCAT010 , Do Xuan , Dung , D22CQAT01-N , 8 
+18,N22DCPT011 , Vu Hoa†ng Quang , Dung , D22CQPT01-N , 2 
+19,N22DCPT012 , Trinh Thi Cam , Duyon , D22CQPT01-N , 5 
+20,N22DCPT013 , Nguyen Ngoc Thuy , Duong , D22CQPT01-N , 1 
+21,N22DCPT015 , Nguyen Van , Dao , D22CQPT01-N , 4 
+22,N22DCCN120 , Vu Tien , Dat , D22CQCN02-N , 10 
+23,N22DCAT018 , Tran Xuon , Dong , D22CQAT01-N , 9 
+24,N22DCPT016 , Nguyen Hoa†i Minh , Duc , D22CQPT01-N , 7 
+25,N22DCPT017 , Nguyen Huynh , Duc , D22CQPT01-N , 8 
+26,N22DCPT018 , Lo Tryc , Giang , D22CQPT01-N , 1 
+27,N22DCAT019 , Ho Lo , Gioi , D22CQAT01-N , 9 
+28,N22DCPT019 , Nguyen Thi Minh , Ha† , D22CQPT01-N , 4 
+29,N22DCPT020 , Nguyen Thi Thanh , Ha† , D22CQPT01-N , 5 
+30,N22DCPT021 , Nguyen Thuy , Ha† , D22CQPT01-N , 5 
+31,N22DCPT022 , Vu Thi , Ha† , D22CQPT01-N , 10 
+32,N22DCPT023 , Le Duc , Hai , D22CQPT01-N , 4 
+33,N17DCAT022 , Nguyen Doan Hong , Hanh , D17CQAT01-N , 8 
+34,N22DCPT025 , Tu Duy , Ha†o , D22CQPT01-N , 3 
+35,N22DCPT026 , Lo Thi Thanh , Hang , D22CQPT01-N , 1 
+36,N22DCPT027 , Nguyen Tran Thanh , Hang , D22CQPT01-N , 1 
+37,N22DCPT028 , Phan Boch , Hang , D22CQPT01-N , 10 
+38,N22DCPT029 , Ly Tran Thuc , Hon , D22CQPT01-N , 10 
+39,N22DCAT021 , Lai Thi Thanh , Hien , D22CQAT01-N , 5 
+40,N22DCAT022 , Lo Quang , Hieu , D22CQAT01-N , 6 
+41,N18DCPT023 , Nguyen Huu , Hieu , D18CQPU01-N , 3 
+42,N22DCCI013 , Tu Duc , Hiep , D22CQCI01-N , 2 
+43,N21DCPT026 , Lo Thi , Hua , D21CQPTTK01-N , 5 
+44,N22DCPT030 , Nguyen Duc , Hoa†n , D22CQPT01-N , 3 
+45,N22DCPT031 , Duong Kim Huy , Hoang , D22CQPT01-N , 10 
+46,N22DCPT032 , Nguyen Huy , Hoa†ng , D22CQPT01-N , 1 
+47,N22DCPT034 , Nguyen Van , Hop , D22CQPT01-N , 4 
+48,N22DCPT035 , Tran Quang , Hung , D22CQPT01-N , 2 
+49,N22DCCN134 , Nguyen Lo Nhat , Huy , D22CQCN02-N , 9 
+50,N22DCPT036 , Pham Thanh , Huy , D22CQPT01-N , 8 
+51,N22DCPT037 , Tran Nguyen Bo , Huy , D22CQPT01-N , 4 
+52,N22DCPT038 , Vuong Quoc , Huy , D22CQPT01-N , 4 
+53,N22DCPT039 , Dinh Thi My , Huyen , D22CQPT01-N , 6 
+54,N22DCAT027 , Do Tan , Hung , D22CQAT01-N , 4 
+55,N22DCPT040 , Nguyen Phyc , Hung , D22CQPT01-N , 1 
+56,N22DCPT044 , Huynh Quang , Khiom , D22CQPT01-N , 4 
+57,N22DCPT045 , Nguyen Dang , Khoa , D22CQPT01-N , 7 
+58,N22DCPT046 , Vu Trung , Kion , D22CQPT01-N , 1 
+59,N22DCCN146 , Huynh Bao , King , D22CQCN02-N , 10 
+60,N22DCPT047 , Nay Ksor H' , Lan , D22CQPT01-N , 2 
+61,N22DCPT048 , Pham Thi Ngoc , Lan , D22CQPT01-N , 3 
+62,N22DCPT051 , Nguyen Tryc , Linh , D22CQPT01-N , 3 
+63,N22DCPT052 , Vu Quang , Long , D22CQPT01-N , 10 
+64,N22DCPT054 , Phan Gia , Loi , D22CQPT01-N , 6 
+65,N22DCPT055 , Tran Ha† Xuon , Mai , D22CQPT01-N , 6 
+66,N22DCPT056 , Nguyen Thi , Men , D22CQPT01-N , 5 
+67,N22DCAT036 , Nguyen Nhat , Minh , D22CQAT01-N , 6 
+68,N22DCPT057 , Nguyen Thi Hong , Minh , D22CQPT01-N , 1 
+69,N22DCPT058 , Pham Hoa†ng , Minh , D22CQPT01-N , 2 
+70,N22DCCN154 , Pham Tran Nhat , Minh , D22CQCN02-N , 3 
+71,N20DCCN042 , Vu Duc , Minh , D20CQCNHT01-N , 1 
+72,N22DCPT059 , Nguyen Hoa†ng An , Nam , D22CQPT01-N , 10 
+73,N22DCAT037 , Nguyen Tha†nh , Nam , D22CQAT01-N , 5 
+74,N22DCPT060 , Nguyen Tha†nh , Nam , D22CQPT01-N , 1 
+75,N21DCPT053 , Tran Phuong , Nga , D21CQPTTK01-N , 2 
+76,N22DCPT061 , Nguyen Ngoc Kim , Ngon , D22CQPT01-N , 4 
+77,N22DCAT038 , Le Dinh , Nghia , D22CQAT01-N , 8 
+78,N22DCPT063 , Pham Bao , Ngoc , D22CQPT01-N , 7 
+79,N22DCPT064 , Bui Dinh , Nguyon , D22CQPT01-N , 10 
+80,N22DCAT040 , Tran Thi aÅnh , Nguyet , D22CQAT01-N , 5 
+81,N21DCPT064 , Dang Thi , Nhan , D21CQPTTK01-N , 6 
+82,N22DCPT066 , Lo Thi Thuy , Nhi , D22CQPT01-N , 4 
+83,N22DCPT067 , Nguyen Thi Yen , Nhi , D22CQPT01-N , 8 
+84,N22DCPT068 , Vu Ngoc Quynh , Nhi , D22CQPT01-N , 8 
+85,N22DCPT069 , Lo Thi Quynh , Nhu , D22CQPT01-N , 5 
+86,N22DCAT041 , Truong Quynh , Nhu , D22CQAT01-N , 4 
+87,N22DCPT070 , Bui Dong Tan , Phot , D22CQPT01-N , 5 
+88,N22DCPT071 , Nguyen Phuong Vinh , Phot , D22CQPT01-N , 8 
+89,N22DCCN159 , Nguyen Ngoc , Phy , D22CQCN02-N , 4 
+90,N22DCPT072 , Pham Huu , Phy , D22CQPT01-N , 2 
+91,N22DCPT073 , Nguyen Hoa†ng , Phyc , D22CQPT01-N , 4 
+92,N22DCCN161 , Lo Nhut , Phuong , D22CQCN02-N , 7 
+93,N21DCPT076 , Mai Thu , Phuong , D21CQPTTK01-N , 5 
+94,N22DCPT074 , Duong Minh , Quang , D22CQPT01-N , 2 
+95,N22DCAT043 , Nguyen Xuon , Quang , D22CQAT01-N , 2 
+96,N22DCPT075 , Nguyen Xuon , Quang , D22CQPT01-N , 6 
+97,N19DCCN151 , Pham Minh , Quang , D19CQCNPM02-N , 3 
+98,N22DCPT076 , Kieu Anh , Quon , D22CQPT01-N , 4 
+99,N22DCPT077 , Luong Vu Khui , Quoc , D22CQPT01-N , 5 
+100,N22DCPT079 , Tran My , Quyon , D22CQPT01-N , 3 
+101,N22DCPT080 , Ho Tryc , Quynh , D22CQPT01-N , 1 
+102,N22DCPT081 , Ngu Thuy , Quynh , D22CQPT01-N , 10 
+103,N22DCPT083 , Nguyen Thi , Quynh , D22CQPT01-N , 8 
+104,N22DCPT082 , Nguyen Thi Nhu , Quynh , D22CQPT01-N , 5 
+105,N22DCPT084 , Nguyen Huong , Sen , D22CQPT01-N , 6 
+106,N22DCPT085 , Nguyen Thoi , Son , D22CQPT01-N , 6 
+107,N22DCAT046 , Ho Van , Tom , D22CQAT01-N , 6 
+108,N22DCPT086 , Nguyen Thi Thanh , Tom , D22CQPT01-N , 9 
+109,N22DCPT087 , Trinh Nhu , Tha†nh , D22CQPT01-N , 5 
+110,N19DCCN193 , Mai Duc , Thang , D19CQCNPM02-N , 10 
+111,N22DCPT088 , Tran Quoc , Thang , D22CQPT01-N , 8 
+112,N22DCAT050 , Tran Gia , Thon , D22CQAT01-N , 4 
+113,N22DCAT052 , Pham Huu Thanh , Thien , D22CQAT01-N , 1 
+114,N22DCPT089 , Nguyen Cho , Thinh , D22CQPT01-N , 10 
+115,N22DCPT090 , Nguyen Thi Kim , Thuy , D22CQPT01-N , 2 
+116,N21DCPT091 , Phan Thu , Thuy , D21CQPTTK01-N , 6 
+117,N22DCAT055 , Nguyen Thi Lam , Thuyon , D22CQAT01-N , 4 
+118,N22DCPT091 , Bui Lo Anh , Thu , D22CQPT01-N , 4 
+119,N20DCPT078 , Duong Ngoc Anh , Thu , D20CQPTTK01-N , 2 
+120,N22DCPT092 , Dinh Hoang Minh , Thu , D22CQPT01-N , 1 
+121,N22DCPT093 , Nguyen Minh , Thu , D22CQPT01-N , 7 
+122,N22DCPT094 , Nguyen Nhat , Thu , D22CQPT01-N , 10 
+123,N22DCPT096 , Thoi Thi Kim , Thuong , D22CQPT01-N , 2 
+124,N22DCPT097 , Huynh Thanh , Tra† , D22CQPT01-N , 9 
+125,N22DCPT099 , Lo Thi Thu , Trang , D22CQPT01-N , 1 
+126,N22DCCN087 , Hua Huyen , Trin , D22CQCN01-N , 8 
+127,N22DCPT101 , Doan Minh , Tri , D22CQPT01-N , 10 
+128,N22DCAT059 , Nguyen Dinh Quoc , Tri , D22CQAT01-N , 2 
+129,N22DCPT103 , Nguyen Manh , Tri , D22CQPT01-N , 8 
+130,N22DCCN189 , Nguyen Quoc , Tri , D22CQCN02-N , 2 
+131,N22DCPT104 , Pham Nguyen Hai , Trieu , D22CQPT01-N , 10 
+132,N20DCPT084 , Tran Vu Kieu , Trinh , D20CQPTTK01-N , 1 
+133,N22DCPT106 , Dinh Quoc , Truong , D22CQPT01-N , 5 
+134,N22DCPT107 , Tran Anh , Ty , D22CQPT01-N , 8 
+135,N22DCAT062 , Bui Anh , Tuan , D22CQAT01-N , 9 
+136,N22DCCI040 , Nguyen Nhu , Tuan , D22CQCI01-N , 1 
+137,N22DCPT108 , Tran Anh , Tuan , D22CQPT01-N , 1 
+138,N22DCCI042 , Nguyen Thanh , Tung , D22CQCI01-N , 6 
+139,N21DCPT096 , Bui Duong Nhu , Tuyet , D21CQPTTK01-N , 3 
+140,N22DCPT109 , Nguyen Quoc , Viet , D22CQPT01-N , 4 
+141,N22DCPT110 , Tran Duy , Vu , D22CQPT01-N , 4 
+142,N22DCPT111 , Nguyen Huynh Quang , Vuong , D22CQPT01-N , 6 
+143,N22DCPT113 , Le Thi Tuong , Vy , D22CQPT01-N , 6 
+144,N22DCPT114 , Nguyen Le Tuong , Vy , D22CQPT01-N , 7 
+145,N22DCPT115 , Tran Chau Thanh , Xuon , D22CQPT01-N , 3 
