@@ -5,18 +5,18 @@ bool soSanh2(const SV &a, const SV &b, int tieuChi){// ham so sanh du tren tieu 
     switch (tieuChi){
     case 1: // sap xep theo ma sinh vien
         return a.id < b.id;
-    case 2: // Sắp xếp theo tên
+    case 2: // Sáº¯p xáº¿p theo tÃªn
         if (a.name == b.name)
             return a.ho < b.ho;
         else
             return a.name < b.name;
-    case 3: // Sắp xếp theo điểm
+    case 3: // Sáº¯p xáº¿p theo Ä‘iá»ƒm
         return a.GPA < b.GPA;
     default:
         return false;
     }
 }
-circleLinkedList* split(circleLinkedList* head) {// Chia danh s�ch li�n k?t v�ng th�nh hai n?a
+circleLinkedList* split(circleLinkedList* head) {// Chia danh sách liên k?t vòng thành hai n?a
     if (!head || !head->next) {
         return nullptr;
     }
@@ -30,11 +30,11 @@ circleLinkedList* split(circleLinkedList* head) {// Chia danh s�ch li�n k?t v�ng
     }
 
     circleLinkedList* mid = slow->next;
-    slow->next = head;  // T?o v�ng cho n?a d?u
+    slow->next = head;  // T?o vòng cho n?a d?u
 
     return mid;
 }
-circleLinkedList* merge(circleLinkedList* a, circleLinkedList* b, int tieuChi) {// H�m g?p hai danh s�ch li�n k?t v�ng d� s?p x?p
+circleLinkedList* merge(circleLinkedList* a, circleLinkedList* b, int tieuChi) {// Hàm g?p hai danh sách liên k?t vòng dã s?p x?p
     if (!a) {
         return b;
     }
@@ -64,11 +64,11 @@ circleLinkedList* merge(circleLinkedList* a, circleLinkedList* b, int tieuChi) {
     }
 
     head = dummy.next;
-    tail->next = head;  // T?o v�ng cho danh s�ch k?t qu?
+    tail->next = head;  // T?o vòng cho danh sách k?t qu?
 
     return head;
 }
-circleLinkedList* mergeSort(circleLinkedList* head, int tieuChi) {// H�m s?p x?p Merge Sort cho danh s�ch li�n k?t v�ng
+circleLinkedList* mergeSort(circleLinkedList* head, int tieuChi) {// Hàm s?p x?p Merge Sort cho danh sách liên k?t vòng
     if (!head || !head->next) {
         return head;
     }
@@ -752,6 +752,21 @@ choice:
 }
 
 //sap xep danh sach sinh vien bang quick Sort trong danh sach lien ket
+void push_node_1(circleLinkedList *&head,circleLinkedList *newnode){
+	if(head==NULL){
+		head=newnode;
+		return;
+	}
+	else{
+		circleLinkedList *current=head;
+		while(current->next!=NULL){
+			current=current->next;
+		}
+		current->next=newnode;
+		newnode->next=NULL;
+	}
+}
+
 void nameQuickSortInCircleLinkedList(circleLinkedList *&head, bool is_cirular, int idx) {
     if (head == NULL || head->next == NULL) {
         return;
@@ -776,10 +791,10 @@ void nameQuickSortInCircleLinkedList(circleLinkedList *&head, bool is_cirular, i
         head = head->next;
         temp->next = NULL;
         if (temp->sinhVien.name <= pivot->sinhVien.name) {
-            addStudentInCircleLinkedList(l1, temp);    
+            push_node_1(l1, temp);    
         }
         else {
-            addStudentInCircleLinkedList(l2, temp);
+            push_node_1(l2, temp);
         }
     }
     nameQuickSortInCircleLinkedList(l1,is_cirular,idx);
@@ -830,10 +845,10 @@ void GPAQuickSortInCircleLinkedList(circleLinkedList *&head, bool is_cirular, in
         head = head->next;
         temp->next = NULL;
         if (temp->sinhVien.GPA <= pivot->sinhVien.GPA) {
-            addStudentInCircleLinkedList(l1, temp);    
+            push_node_1(l1, temp);    
         }
         else {
-            addStudentInCircleLinkedList(l2, temp);
+            push_node_1(l2, temp);
         }
     }
     GPAQuickSortInCircleLinkedList(l1,is_cirular,idx);
@@ -884,10 +899,10 @@ void IDQuickSortInCircleLinkedList(circleLinkedList *&head,bool is_cirular,int i
         head = head->next;
         temp->next = NULL;
         if (temp->sinhVien.id <= pivot->sinhVien.id) {
-            addStudentInCircleLinkedList(l1, temp);    
+            push_node_1(l1, temp);    
         }
         else {
-            addStudentInCircleLinkedList(l2, temp);
+            push_node_1(l2, temp);
         }
     }
     IDQuickSortInCircleLinkedList(l1,is_cirular,idx);
